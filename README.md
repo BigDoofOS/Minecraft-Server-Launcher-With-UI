@@ -1,5 +1,5 @@
 # Minecraft-Server-Launcher-With-UI
-You must put the server main folders into the folder titled server that will be made upon running.
+You must put the server main folders into the folder titled server that will be made upon running. (works with any server as long as they are launched with a .bat a .jar or a .bat)
 Exe is Highly recommended the .py file is for people who want to inspect the code or etc. Let me know if anyone has problems with either
 <img width="1677" height="1001" alt="image" src="https://github.com/user-attachments/assets/186dfa9f-639a-4f11-94f6-7c17d72bbce7" />
 📦 Server Panel (Tkinter)
